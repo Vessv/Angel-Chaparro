@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-Hello there! My name is Angel, I’m a software engineer student who loves coding and making wonderful experiences inside games.
+Hello there! My name is Angel, I’m a systems engineer student who loves coding and making wonderful experiences inside games.
 
 ### Contact Information
 
