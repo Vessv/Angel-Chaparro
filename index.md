@@ -17,7 +17,7 @@ TODO
 
 ### Education
 
-Universidad Autonoma de Bucaramanga
-           2018-2022
-I am currently a student in System Engineering at 
+- Universidad Autonoma de Bucaramanga
+-           2018-2022
+- I am currently a student in System Engineering at 
 Universidad Autonoma de Bucaramanga.
