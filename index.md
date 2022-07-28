@@ -14,3 +14,10 @@ Hello there! My name is Angel, I’m a software engineer student who loves codin
 
 ### Projects
 TODO
+
+### Education
+
+Universidad Autonoma de Bucaramanga
+           2018-2022
+I am currently a student in System Engineering at 
+Universidad Autonoma de Bucaramanga.
