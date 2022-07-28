@@ -13,7 +13,8 @@ Hello there! My name is Angel, I’m a systems engineer student who loves coding
 
 
 ### Projects
-TODO
+
+Currently working on [Project-L](https://github.com/Vessv/Project-L) a turn based 2D rpg multiplayer game.
 
 ### Education
 
